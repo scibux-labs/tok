@@ -1,0 +1,16 @@
+{
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["./src"]
+      }
+    }
+  },
+  "env": {
+    "es6": true
+  },
+  "extends": "@pancakeswap/eslint-config-pancake",
+  "rules": {
+    "no-console": ["warn", { "allow": ["info", "warn", "error"] }]
+  }
+}
