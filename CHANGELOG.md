@@ -6,7 +6,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 # [2.28.0](https://github.com/pancakeswap/pancake-toolkit/compare/@pancakeswap/token-lists@2.27.0...@pancakeswap/token-lists@2.28.0) (2022-03-01)
 
 
-### Bug Fixes
+### Bug Fixe
 
 * Update patch version ([#407](https://github.com/pancakeswap/pancake-toolkit/issues/407)) ([76a4eb9](https://github.com/pancakeswap/pancake-toolkit/commit/76a4eb9eddd995ecd3f98ac2570ef08ec0d801ce))
 
