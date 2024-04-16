@@ -3,7 +3,7 @@ import checksumAddresses from "./checksum.js";
 import ciCheck from "./ci-check.js";
 import topTokens from "./top-100.js";
 import fetchThirdPartyList from "./fetchThirdPartyList.js";
-import { LISTS } from "./constants.js";
+import { LISTS } from ".//constants.js";
 import { exec } from "child_process";
 import { buildIndex } from "./buildIndex.js";
 
